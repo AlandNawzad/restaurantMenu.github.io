@@ -1,0 +1,28 @@
+.container{
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 70vh;
+}
+
+.menue{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+img{
+    margin-right: 30px;
+    width: 150px;
+    height: 150px;
+}
+ table{
+    border: 2px solid blue;
+    margin-bottom: 10px;
+ }
+ td {
+    padding: 4px;
+    
+  }
